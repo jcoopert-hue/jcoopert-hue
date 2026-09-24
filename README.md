@@ -1,4 +1,4 @@
-# 👋 Hola, soy José Rivero | CTO Híbrido & Consultor IT
+# Hola, soy José Rivero | CTO Híbrido & Consultor IT
 
 Soy un estratega tecnológico que conecta los objetivos de negocio (B2B) con la ejecución técnica. Me especializo en diseñar arquitecturas SaaS, orquestar flujos de automatización con IA y liderar operaciones de calidad (QA / Testing Factories).
 
